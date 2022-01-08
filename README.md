@@ -6,9 +6,12 @@
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=eodyd7072)](https://solved.ac/eodyd7072)
 <img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right">
+
+<hr>
+---
 <!--
 **kimdyeyoun/kimdyeyoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
----
+
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
