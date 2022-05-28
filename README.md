@@ -32,7 +32,7 @@
   
   📞 : +82 10-6219-9990
 
-📩 : <a href="mailto:eodyd0313@gmail.com" target="_black"><img src="https://img.shields.io/badge/eodyd7072@naver.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
+📩 : <a href="mailto:eodyd0313@gmail.com" target="_black"><img src="https://img.shields.io/badge/eodyd0313@gmail.com-62B47A?style=flat-square&logo=Naver&logoColor=white"/></a>
 
 🏢 : [PREF](http://www.prefinc.com/main/index)
 
