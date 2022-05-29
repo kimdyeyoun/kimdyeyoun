@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=Velog&logoColor=white">
   <img src="https://img.shields.io/badge/Google Sheets-34A853?style=for-the-badge&logo=Google Sheets&logoColor=white">
   
-  📞 : +82 10-6219-9990
+  📞 : +82 10-6219-9990 
 
 📩 : <a href="mailto:eodyd0313@gmail.com" target="_black"><img src="https://img.shields.io/badge/eodyd0313@gmail.com-EA4335?style=flat-square&logo=Gmail&logoColor=white"/></a>
 
